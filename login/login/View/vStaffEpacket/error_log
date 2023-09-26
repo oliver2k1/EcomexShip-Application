@@ -1,0 +1,183 @@
+[06-Sep-2023 23:55:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[06-Sep-2023 23:55:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[06-Sep-2023 23:55:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[06-Sep-2023 23:55:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[06-Sep-2023 23:55:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[06-Sep-2023 23:56:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[06-Sep-2023 23:57:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[06-Sep-2023 23:57:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[06-Sep-2023 23:57:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[06-Sep-2023 23:57:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[06-Sep-2023 23:57:46 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[06-Sep-2023 23:57:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[07-Sep-2023 00:00:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eco33771/public_html/login/Model/order.php on line 875
+[07-Sep-2023 00:00:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eco33771/public_html/login/Model/order.php on line 934
+[07-Sep-2023 00:00:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[07-Sep-2023 00:00:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-all-customer.php on line 50
+[07-Sep-2023 00:00:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[07-Sep-2023 00:00:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-all-customer.php on line 50
+[09-Sep-2023 14:02:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:02:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:02:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:02:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:02:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:02:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:02:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:02:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:02:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:03:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:03:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:03:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:03:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:03:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-all-customer.php on line 50
+[09-Sep-2023 14:03:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:03:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-transporting.php on line 50
+[09-Sep-2023 14:03:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:03:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-transporting.php on line 50
+[09-Sep-2023 14:03:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:03:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-transporting.php on line 50
+[09-Sep-2023 14:03:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:03:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-transporting.php on line 50
+[09-Sep-2023 14:03:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:03:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-transporting.php on line 50
+[09-Sep-2023 14:03:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:03:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-transporting.php on line 50
+[09-Sep-2023 14:04:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:04:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:04:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:04:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:04:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:04:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:04:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:05:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:05:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:05:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:05:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:05:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:06:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:07:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:07:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:07:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:09:08 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:09:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:09:08 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:09:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:09:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-all-customer.php on line 50
+[09-Sep-2023 14:09:29 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:09:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:09:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:09:59 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:10:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:10:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:11:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:11:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:11:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:12:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:12:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:12:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:12:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:15:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:15:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:15:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:15:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:15:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:15:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:15:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:15:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-nhapkho.php on line 51
+[09-Sep-2023 14:15:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:16:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:16:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:16:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-xuatkho.php on line 51
+[09-Sep-2023 14:16:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-nhapkho.php on line 51
+[09-Sep-2023 14:16:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-all-customer.php on line 50
+[09-Sep-2023 14:16:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-nhapkho.php on line 51
+[09-Sep-2023 14:16:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-xuatkho.php on line 51
+[09-Sep-2023 14:16:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-xuatkho.php on line 51
+[09-Sep-2023 14:16:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-all-customer.php on line 50
+[09-Sep-2023 14:17:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:17:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-all-customer.php on line 50
+[09-Sep-2023 14:17:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:17:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-all-customer.php on line 50
+[09-Sep-2023 14:17:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:17:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-all-customer.php on line 50
+[09-Sep-2023 14:17:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/Model/order.php on line 225
+[09-Sep-2023 14:17:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/eco33771/public_html/login/View/vStaffEpacket/list-all-customer.php on line 50
+[09-Sep-2023 14:47:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[09-Sep-2023 14:47:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[10-Sep-2023 23:10:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[10-Sep-2023 23:10:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[12-Sep-2023 06:46:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[12-Sep-2023 06:46:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[12-Sep-2023 09:55:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[12-Sep-2023 09:56:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[12-Sep-2023 09:56:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[12-Sep-2023 10:48:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[13-Sep-2023 05:15:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 05:15:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 05:45:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[13-Sep-2023 05:45:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 05:45:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 05:47:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 05:47:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 05:55:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[13-Sep-2023 05:55:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[13-Sep-2023 05:56:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[13-Sep-2023 05:57:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 05:57:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 05:58:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 05:58:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 08:24:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[13-Sep-2023 08:24:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 08:24:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 10:23:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[13-Sep-2023 14:05:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 14:05:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 14:05:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 14:05:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 14:06:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 14:06:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 14:06:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 14:06:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 14:21:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 14:21:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 19:06:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[13-Sep-2023 19:07:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[13-Sep-2023 19:07:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[13-Sep-2023 19:07:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[13-Sep-2023 19:07:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 05:19:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[15-Sep-2023 05:19:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 05:19:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 05:20:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 05:20:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 05:21:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 05:21:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 09:05:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 09:05:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 09:05:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 09:05:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 09:07:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 09:07:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 09:13:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 09:13:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 09:56:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 09:56:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 19:10:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[15-Sep-2023 19:10:29 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[16-Sep-2023 00:46:49 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eco33771/public_html/login/Model/order.php on line 944
+[16-Sep-2023 00:46:49 Asia/Ho_Chi_Minh] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/eco33771/public_html/login/Model/order.php on line 1003
+[16-Sep-2023 00:46:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[16-Sep-2023 00:46:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[16-Sep-2023 10:38:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[16-Sep-2023 10:38:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[16-Sep-2023 22:45:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[16-Sep-2023 22:45:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[16-Sep-2023 22:48:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[16-Sep-2023 22:48:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[17-Sep-2023 04:55:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[17-Sep-2023 04:55:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[17-Sep-2023 05:00:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[17-Sep-2023 05:01:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[17-Sep-2023 05:01:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: quyen in /home/eco33771/public_html/login/View/vStaffEpacket/taskbar.php on line 4
+[17-Sep-2023 05:02:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: conn in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205
+[17-Sep-2023 05:02:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/eco33771/public_html/login/View/vStaffEpacket/index.php on line 205

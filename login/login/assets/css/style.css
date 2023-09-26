@@ -1,0 +1,6 @@
+
+#icon{
+font-size: 34px; /* Kích thước mong muốn */
+transform: scale(1); /* Không thay đổi tỷ lệ ban đầu */
+margin: 10px;
+}

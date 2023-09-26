@@ -1,0 +1,27 @@
+[06-Sep-2023 17:49:49 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/logout.php on line 10
+[06-Sep-2023 18:10:19 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/logout.php on line 10
+[06-Sep-2023 18:37:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: username in /home/eco33771/public_html/XulyLogin.php on line 15
+[06-Sep-2023 18:37:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: password in /home/eco33771/public_html/XulyLogin.php on line 16
+[06-Sep-2023 18:42:45 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/logout.php on line 10
+[06-Sep-2023 18:44:45 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/logout.php on line 10
+[06-Sep-2023 18:46:43 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/logout.php on line 10
+[06-Sep-2023 18:48:10 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/logout.php on line 10
+[06-Sep-2023 18:49:43 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/logout.php on line 10
+[06-Sep-2023 18:55:20 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/logout.php on line 10
+[06-Sep-2023 18:59:34 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/logout.php on line 10
+[06-Sep-2023 19:08:43 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/logout.php on line 10
+[06-Sep-2023 23:55:37 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/login/logout.php on line 10
+[07-Sep-2023 00:00:56 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/login/logout.php on line 10
+[07-Sep-2023 00:17:49 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/login/logout.php on line 10
+[07-Sep-2023 00:19:33 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/login/logout.php on line 10
+[07-Sep-2023 00:20:52 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/login/logout.php on line 10
+[07-Sep-2023 00:21:31 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/login/logout.php on line 10
+[07-Sep-2023 00:21:33 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/login/logout.php on line 10
+[07-Sep-2023 00:21:43 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/login/logout.php on line 10
+[07-Sep-2023 00:23:13 Asia/Ho_Chi_Minh] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/eco33771/public_html/login/logout.php on line 10
+[07-Sep-2023 23:10:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: username in /home/eco33771/public_html/login/XulyLogin.php on line 15
+[07-Sep-2023 23:10:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: password in /home/eco33771/public_html/login/XulyLogin.php on line 16
+[11-Sep-2023 10:10:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: username in /home/eco33771/public_html/login/XulyLogin.php on line 15
+[11-Sep-2023 10:10:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: password in /home/eco33771/public_html/login/XulyLogin.php on line 17
+[12-Sep-2023 06:46:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: username in /home/eco33771/public_html/login/XulyLogin.php on line 15
+[12-Sep-2023 06:46:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: password in /home/eco33771/public_html/login/XulyLogin.php on line 17

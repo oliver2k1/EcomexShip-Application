@@ -1,0 +1,26 @@
+[14-Sep-2023 06:24:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/eco33771/public_html/login/Dungchung/upload-label.php on line 113
+[14-Sep-2023 06:24:22 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/eco33771/public_html/login/Dungchung/upload-label.php on line 113
+[14-Sep-2023 06:24:22 Asia/Ho_Chi_Minh] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/eco33771/public_html/login/Dungchung/upload-label.php on line 62
+[14-Sep-2023 06:24:22 Asia/Ho_Chi_Minh] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/eco33771/public_html/login/Dungchung/upload-label.php on line 63
+[14-Sep-2023 06:24:26 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/eco33771/public_html/login/Dungchung/upload-label.php on line 113
+[14-Sep-2023 06:24:26 Asia/Ho_Chi_Minh] PHP Warning:  A non-numeric value encountered in /home/eco33771/public_html/login/Dungchung/upload-label.php on line 113
+[14-Sep-2023 06:24:26 Asia/Ho_Chi_Minh] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/eco33771/public_html/login/Dungchung/upload-label.php on line 62
+[14-Sep-2023 06:24:26 Asia/Ho_Chi_Minh] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/eco33771/public_html/login/Dungchung/upload-label.php on line 63
+[14-Sep-2023 15:29:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: print_qty in /home/eco33771/public_html/login/Dungchung/barcode.php on line 24
+[14-Sep-2023 15:31:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: print_qty in /home/eco33771/public_html/login/Dungchung/barcode.php on line 24
+[14-Sep-2023 15:37:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: print_qty in /home/eco33771/public_html/login/Dungchung/barcode.php on line 24
+[14-Sep-2023 15:52:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: checkboxValue in /home/eco33771/public_html/login/Dungchung/barcode2.php on line 22
+[14-Sep-2023 15:52:31 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/eco33771/public_html/login/Dungchung/barcode2.php on line 24
+[15-Sep-2023 01:53:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: File ./excel/logo.jpg not found! in /home/eco33771/public_html/login/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Drawing.php:134
+Stack trace:
+#0 /home/eco33771/public_html/login/Dungchung/export-data.php(68): PhpOffice\PhpSpreadsheet\Worksheet\Drawing->setPath('./excel/logo.jp...')
+#1 {main}
+  thrown in /home/eco33771/public_html/login/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Drawing.php on line 134
+[15-Sep-2023 09:31:34 Asia/Ho_Chi_Minh] PHP Warning:  require_once(../vnpay_php/config.php): failed to open stream: No such file or directory in /home/eco33771/public_html/login/Dungchung/payment.php on line 2
+[15-Sep-2023 09:31:34 Asia/Ho_Chi_Minh] PHP Fatal error:  require_once(): Failed opening required '../vnpay_php/config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/eco33771/public_html/login/Dungchung/payment.php on line 2
+[16-Sep-2023 07:37:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: service in /home/eco33771/public_html/login/Dungchung/barcode.php on line 23
+[16-Sep-2023 07:39:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: service in /home/eco33771/public_html/login/Dungchung/barcode.php on line 23
+[16-Sep-2023 07:49:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: service in /home/eco33771/public_html/login/Dungchung/barcode.php on line 23
+[16-Sep-2023 07:57:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: service in /home/eco33771/public_html/login/Dungchung/barcode.php on line 23
+[16-Sep-2023 07:58:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: service in /home/eco33771/public_html/login/Dungchung/barcode.php on line 23
+[16-Sep-2023 08:03:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined offset: 2 in /home/eco33771/public_html/login/Dungchung/barcode2.php on line 29
